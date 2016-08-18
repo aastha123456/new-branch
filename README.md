@@ -1,2 +1,2 @@
 # new-branch
-this is for reserch purpose only
+this is for research purpose only
